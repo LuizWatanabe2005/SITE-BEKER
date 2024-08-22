@@ -1,0 +1,111 @@
+.geral{
+    background-color: #e7e6e6;
+}
+
+
+
+
+.carro{
+    width: 500px;
+    position: relative;
+    left: 0px;
+    border: 3px solid black;
+}
+.quadrado{
+    position: relative;
+    border: 2px solid black;
+    border-radius: 15px ;
+    width: 700px;
+    height: 400px;
+    top: -71px;
+    background-color: white;
+
+
+}
+
+
+.valor{
+    position: relative;
+    border: 2px solid black;
+    border-radius: 5px ;
+    width: 400px;
+    height: 415px;
+    top: -445px;
+    left: 850px;
+    background-color: white;
+
+
+}
+
+
+.bot{
+   position: relative;
+    left: 950px;
+    bottom: 500px;
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+   
+}
+.preco{
+    position: relative;
+    bottom: 870px;
+    left: 870px;
+    font-size: 35px;
+}
+.desconto{
+    position: relative;
+    bottom: 925px;
+    left: 1130px;
+    font-size: 20px;
+    color: gray;
+}
+.linha{
+    position: relative;
+    font-size: 35px;
+    left: 1129px;
+    bottom: 999px;
+}
+.ps{
+    position: relative;
+    bottom: 1050px;
+    font-size: 20px;
+    left: 50px;
+    word-spacing: 10px;
+}
+.km{
+
+
+position: relative;
+left: 52px;
+bottom: 1050px;
+color: black;
+}
+
+
+.pss {
+    color: red;
+    position: relative;
+    bottom: 1096px;
+    font-size: 20px;
+    left: 203px;
+    word-spacing: 10px;
+}
+.visto{
+   
+    position: relative;
+    bottom: 1240px;
+    font-size: 15px;
+    left: -10px;
+    word-spacing: 10px;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    width: 710px;
+    border-radius: 15px;
+}
+.vistoo{
+    position: relative;
+    left:16px ;
+}
